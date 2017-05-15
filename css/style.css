@@ -1,0 +1,16 @@
+/*=======Список=======*/
+
+.list,
+ul li {
+    list-style-type: disc;
+}
+
+ol.roman {
+    list-style-type: upper-roman;
+}
+
+span {
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 5px;
+}
